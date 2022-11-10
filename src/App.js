@@ -1,11 +1,11 @@
 import "./App.css";
-import About from "./Components/About";
-import Footer from "./Components/Footer";
-import Hero from "./Components/Hero";
-import Menu from "./Components/Menu";
-import Reservation from "./Components/Reservation";
-import Team from "./Components/Team";
-import Testimonial from "./Components/Testimonial";
+import About from "./components/About";
+import Footer from "./components/Footer";
+import Hero from "./components/Hero";
+import Menu from "./components/Menu";
+import Reservation from "./components/Reservation";
+import Team from "./components/Team";
+import Testimonial from "./components/Testimonial";
 
 function App() {
   return (
